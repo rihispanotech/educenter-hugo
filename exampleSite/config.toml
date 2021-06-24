@@ -131,23 +131,23 @@ name = "Contact"
 url = "contact"
 weight = 5
 [params]
-address = "9567 Turner Trace Apt. BC C3G8A4"
+address = "Providence, RI"
 author = "Themefisher"
 contact_form_action = "#"
 description = "This is meta description"
-email = "info@educenter.com"
+email = "info@rihispanotech.com"
 google_analitycs_id = ""
-logo = "/images/RIGHT logo.jpg"
-mobile = "+211234565523"
+logo = "/images/logo.png"
+mobile = "401-401-4040"
 top_header = true
 [params.cookies]
 enable = true
 expire_days = 2
 [params.map]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+gmap_api = "https://www.google.com/maps/place/Providence,+Rhode+Island/@41.8168808,-71.4561998,13z/data=!3m1!4b1!4m5!3m4!1s0x89e444e0437e735d:0x69df7c4d48b3b627!8m2!3d41.8239891!4d-71.4128343"
+map_latitude = "41.8168808"
+map_longitude = "-71.4561998"
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
@@ -183,18 +183,6 @@ icon = "ti-facebook"
 link = "#"
 title = "facebook"
 [[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-title = "twitter"
-[[params.social]]
 icon = "ti-instagram"
 link = "#"
 title = "instagram"
-[[params.social]]
-icon = "ti-github"
-link = "#"
-title = "github"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-title = "linkedin"
