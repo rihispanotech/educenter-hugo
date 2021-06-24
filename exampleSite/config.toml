@@ -137,7 +137,7 @@ contact_form_action = "#"
 description = "This is meta description"
 email = "info@educenter.com"
 google_analitycs_id = ""
-logo = "images/logo.png"
+logo = "/images/RIGHT logo.jpg"
 mobile = "+211234565523"
 top_header = true
 [params.cookies]
