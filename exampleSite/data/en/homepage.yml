@@ -55,15 +55,18 @@ banner_feature:
       tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
 about:
   enable: true
-  title: About Educenter
+  title: About RIGHT
   image: images/about/about-us.jpg
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat  pariatur. Excepteur sint occaecat\n\ncupidatat non proident, sunt in culpa
-    qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis
-    iste natus error sit voluptatem "
+  content: "The Rhode Island Group for Hispanic Technology is an organization created
+    with the mission of providing technical training and assistance to the Hispanic
+    community and Small Businesses of the State of Rhode Island.\n\nWe believe in
+    the potential of the Hispanic community so we decided to create the Rhode Island
+    Group for Hispanic Technology because a lot of Hispanics come to this country,
+    especially Rhode Island, and sometimes they are not sure where to find the technical
+    resources they would like to learn more about. The language barrier many of them
+    have can difficult things as well. Even though, we urge\nevery single Hispanic
+    and business owner who assists in our workshops to keep learning English, we also
+    want them to learn technology and computer scien "
   button:
     enable: true
     label: Learn more
