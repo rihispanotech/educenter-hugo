@@ -3,7 +3,7 @@ slider:
   enable: true
   bg_image: images/banner/banner-1.jpg
   slider_item:
-  - title: Rhode Island Group for Hispanic Technology
+  - title: RIGHT
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
       exer
